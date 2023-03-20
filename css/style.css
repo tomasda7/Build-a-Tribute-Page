@@ -4,3 +4,7 @@ img {
   height: auto;
   margin: 0 auto;
 }
+#title {
+  display: flex;
+  justify-content: center;
+}
